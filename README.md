@@ -1,6 +1,6 @@
 # My Personal Portfolio: Full-Stack Web Development Showcase
 
-<p>This project is a <em>responsive and dynamic personal portfolio website</em> meticulously crafted to showcase my skills, projects, and experiences as a <b>B.Tech CSE student from GGSIPU, Delhi</b>. Currently focused on <b>**full-stack web development</b>, I designed and built this site to serve as a central hub for my professional journey and to demonstrate my proficiency in modern web technologies.</p>
+<p>This project is a <em>responsive and dynamic personal portfolio website</em> meticulously crafted to showcase my skills, projects, and experiences as a <b>B.Tech CSE student from GGSIPU, Delhi</b>. Currently focused on <b>full-stack web development</b>, I designed and built this site to serve as a central hub for my professional journey and to demonstrate my proficiency in modern web technologies.</p>
 
 <h3>Key Features & Highlights:</h3>
 <ul>
